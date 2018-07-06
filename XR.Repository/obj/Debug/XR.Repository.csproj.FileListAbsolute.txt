@@ -1,0 +1,13 @@
+D:\SourceCode\XR\XR.Repository\bin\Debug\XR.Repository.dll
+D:\SourceCode\XR\XR.Repository\bin\Debug\XR.Repository.pdb
+D:\SourceCode\XR\XR.Repository\bin\Debug\EntityFramework.dll
+D:\SourceCode\XR\XR.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\SourceCode\XR\XR.Repository\bin\Debug\SQLite.CodeFirst.dll
+D:\SourceCode\XR\XR.Repository\bin\Debug\EntityFramework.xml
+D:\SourceCode\XR\XR.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\SourceCode\XR\XR.Repository\obj\Debug\XR.Repository.csprojResolveAssemblyReference.cache
+D:\SourceCode\XR\XR.Repository\obj\Debug\XR.Repository.csproj.CoreCompileInputs.cache
+D:\SourceCode\XR\XR.Repository\obj\Debug\XR.Repository.dll
+D:\SourceCode\XR\XR.Repository\obj\Debug\XR.Repository.pdb
+D:\SourceCode\XR\XR.Repository\bin\Debug\XR.Model.dll
+D:\SourceCode\XR\XR.Repository\bin\Debug\XR.Model.pdb
